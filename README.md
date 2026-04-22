@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github.com/Szqore/Szqore/blob/main/Zamok.jpg?raw=true" width="250">
+<img align="right" src="https://github.com/Assassins-afk/Assassins-afk/blob/main/6529b3c5ae053993399de76177e6face.png?raw=true" width="250">
 
 <big><b>👁‍🗨 About Me:</b></big>
 
