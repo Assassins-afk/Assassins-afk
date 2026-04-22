@@ -21,11 +21,11 @@
 
 <big><b>👁‍🗨 About Me:</b></big>
 
-I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
+I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
-- I am student
-- I'm a beginner and an unknown developer in Java
-- In my free time, I play games or shoot cool videos
+- I'm a student
+- I am a beginner and unknown python developer
+- In my free time, I play games and practice
 
 <br clear="both"/>
 
