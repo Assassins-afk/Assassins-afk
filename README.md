@@ -8,18 +8,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Szqore/Szqore/blob/main/qwsd.gif?raw=true" width="700">
+  <img src="https://github.com/Assassins-afk/Assassins-afk/blob/main/tv-drama.gif?raw=true" width="700">
 </p>
 
 <p align="center">
-  <b>⛓️ hey there ⛓️</b>
+  <b> hey there </b>
 </p>
 
 ---
 
 <img align="right" src="https://github.com/Assassins-afk/Assassins-afk/blob/main/6529b3c5ae053993399de76177e6face.png?raw=true" width="250">
 
-<big><b>👁‍🗨 About Me:</b></big>
+<big><b> About Me:</b></big>
 
 I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
@@ -31,7 +31,7 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
 ---
 
-<h3 align="left">🫩 Languages and Tools::</h3>
+<h3 align="left"> Languages and Tools::</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Assassins-afk/Assassins-afk/refs/heads/main/python.jpg" width="200">
@@ -39,7 +39,7 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
 ---
 
-<h3 align="left">♠️ GitHub Statistics:</h3>
+<h3 align="left"> GitHub Statistics:</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assassins-afk&theme=radical">
