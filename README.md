@@ -39,9 +39,16 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
 ---
 
-### GitHub Statistics:
-
-![GitHub Stats](https://vercel.app)
+<h3 align="left">GitHub Statistics:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Assassins-afk&show_icons=true&count_private=true&hide_border=true&title_color=ff7e5e&icon_color=ff7e5e&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assassins-afk&hide_border=true&background=0d1117&ring=ff7e5e&fire=ff7e5e&currStreakLabel=ff7e5e" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assassins-afk&layout=compact&hide_border=true&title_color=ff7e5e&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages">
+</p>
 
 ---
 
