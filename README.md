@@ -41,13 +41,13 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
 <h3 align="left">GitHub Statistics:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assassins-afk&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assassins-afk&theme=highcontrast">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Assassins-afk&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Assassins-afk&show_icons=true&theme=highcontrast">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assassins-afk&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assassins-afk&layout=compact&theme=highcontrast">
 </p>
 ---
 
