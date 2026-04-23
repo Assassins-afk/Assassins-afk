@@ -42,7 +42,7 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 <h3 align="left"> GitHub Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assassins-afk&theme=radical">
+  <img src="https://vercel.app" alt="GitHub Stats">
 </p>
 
 ---
