@@ -47,7 +47,7 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 
 ---
 
-<h3 align="left">♦️ LeetCode Statistics:</h3>
+<h3 align="left"> LeetCode Statistics:</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Daniil2281?theme=dark&font=Source%20Code%20Pr">
