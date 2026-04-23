@@ -34,7 +34,7 @@ I am a novice python programmer from Novosibirsk (Russia). I'm 18 years old.
 <h3 align="left"> Languages and Tools::</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Assassins-afk/Assassins-afk/refs/heads/main/python.jpg" width="200">
+  <img src="https://github.com/Assassins-afk/Assassins-afk/blob/main/python-icon-logo.png?raw=true" width="200">
 </p>
 
 ---
